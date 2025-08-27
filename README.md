@@ -33,7 +33,6 @@ O objetivo é praticar a criação de interfaces modernas e responsivas, incluin
 Você pode acessar o projeto rodando localmente:  
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Victorhugofariasvieir66/formularioCadastro.git
-
+https://github.com/Victorhugofariasvieir66/formularioCadastro.git
 
 ## 📂 Estrutura de pastas
